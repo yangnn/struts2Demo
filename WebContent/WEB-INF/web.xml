@@ -5,6 +5,7 @@
                       http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
   version="3.1"
   metadata-complete="true">
+	
 	<!-- 定义Struts2的核心filter -->
 	<filter>
 		<filter-name>struts2</filter-name>
@@ -16,9 +17,23 @@
 		<url-pattern>/*</url-pattern>
 	</filter-mapping>
 	
+	<!-- 自定义Filter，统计网站访问量 -->
+<!-- 
+	<filter>
+		<filter-name>myFilter</filter-name>
+		<filter-class>org.crazyit.app.action.MyFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>myFilter</filter-name>
+		<url-pattern>*.action</url-pattern>
+	</filter-mapping>
+ -->	
+	<listener>
+		<listener-class>org.crazyit.app.action.MyHttpSessionListener</listener-class>
+	</listener>
+	
 	<welcome-file-list>
 		<welcome-file>index.action</welcome-file>
 	</welcome-file-list>
-	
 	
 </web-app>
