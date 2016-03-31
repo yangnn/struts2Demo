@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Home</title>
+<title>鸿雁化工</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Quickly Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<meta name="keywords" content="鸿雁 化工" />
+<meta name="description" content="鸿雁化工首页" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
@@ -157,7 +157,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</li>
 					<li>
 						<div class="banner-bottom-grid">
-							<img src="images/3.jpg" alt=" " class="img-responsive" />
+							<img src="images/3.jpg" alt="人力资源" class="img-responsive" />
 							<p>人力资源</p>
 							<div class="more">
 								<a href="resource.action" class="hvr-bounce-to-bottom sint">更多</a>

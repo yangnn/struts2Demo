@@ -4,6 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="鸿雁 化工" />
+<meta name="description" content="鸿雁化工首页" />
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!-- js -->
@@ -20,7 +22,7 @@
 		});
 	});
 </script>
-<title>公司简介</title>
+<title>鸿雁化工</title>
 </head>
 <body>
 <!-- banner-body -->
@@ -74,7 +76,7 @@
 		<div class="clearfix"> </div>
 <!-- banner -->
 		<div class="banner-bottom">
-			<p>济宁鸿雁化工有限公司成立于2009年，地处中国山东省济宁市，济宁市美恒国际汽车博览城对过美恒公寓9层。公司所在地济宁位于
+			<p><h2>济宁鸿雁化工</h2>有限公司成立于2009年，地处中国山东省济宁市，济宁市美恒国际汽车博览城对过美恒公寓9层。公司所在地济宁位于
 			山东省的西南部，是山东省鲁东南城市带中心城市。位于鲁苏豫皖四省结合部，是连接华东与华北、中原与沿海
 			的重要枢纽，内河航运能力占全省的80%以上，济宁机场、曲阜高铁顺利通行。</p>
 			<p>济宁鸿雁化工有限公司是一家由化工届利用多年积累的客户机财富经验组建创办的，

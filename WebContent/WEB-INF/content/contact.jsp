@@ -4,6 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="鸿雁 化工" />
+<meta name="description" content="鸿雁化工首页" />
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!-- js -->
@@ -20,7 +22,7 @@
 		});
 	});
 </script>
-<title>公司简介</title>
+<title>鸿雁化工</title>
 </head>
 <body>
 <!-- banner-body -->
