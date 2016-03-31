@@ -36,6 +36,15 @@
 		<action name="about" class="org.crazyit.app.action.AboutAction" method="about">
 			<result name="success">/WEB-INF/content/about.jsp</result>
 		</action>
+		<action name="resource" class="org.crazyit.app.action.ResourceAction" method="resource">
+			<result name="success">/WEB-INF/content/resource.jsp</result>
+		</action>
+		<action name="contact" class="org.crazyit.app.action.ContactAction" method="contact">
+			<result name="success">/WEB-INF/content/contact.jsp</result>
+		</action>
+		<action name="portfolio" class="org.crazyit.app.action.PortFolioAction" method="portfolio">
+			<result name="success">/WEB-INF/content/portfolio.jsp</result>
+		</action>
     </package>
 
     <!-- Add packages here -->

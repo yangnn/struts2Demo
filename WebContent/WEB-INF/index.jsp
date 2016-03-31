@@ -47,17 +47,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						  </button>
-						   <a class="navbar-brand" href="index.html">回到首页</a>
+						   <a class="navbar-brand" href="index.action">回到首页</a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 						 <ul class="nav navbar-nav">
-							<li class="hvr-bounce-to-bottom active"><a href="index.html">首页</a></li>
+							<li class="hvr-bounce-to-bottom active"><a href="index.action">首页</a></li>
 							<li class="hvr-bounce-to-bottom"><a href="about.action">公司简介</a></li>
-							<li class="hvr-bounce-to-bottom"><a href="Portfolio.html">产品与服务</a></li>
-							<li class="hvr-bounce-to-bottom"><a href="Pages.html">人力资源</a></li>
-							<li class="hvr-bounce-to-bottom"><a href="contact.html">联系我们</a></li>
+							<li class="hvr-bounce-to-bottom"><a href="portfolio.action">产品与服务</a></li>
+							<li class="hvr-bounce-to-bottom"><a href="resource.action">人力资源</a></li>
+							<li class="hvr-bounce-to-bottom"><a href="contact.action">联系我们</a></li>
 						  </ul>
 						  <div class="sign-in">
 							<ul>
@@ -112,14 +112,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="banner-inf">
 								<h3>公司简介</h3>
 								<p>济宁鸿雁化工有限公司</p>
-								<a href="single.html">更多</a>
+								<a href="about.action">更多</a>
 							</div>
 						</li>
 						<li>
 							<div class="banner-inf">
 								<h3>产品与服务</h3>
 								<p>主营苯，甲苯，纯苯，轻油，等化工产品</p>
-								<a href="single.html">更多</a>
+								<a href="portfolio.action">更多</a>
 							</div>
 						</li>
 						<li>
@@ -127,7 +127,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<h3>人力资源</h3>
 								<p>人力资源相关信息<br>
 								人力资源相关信息</p>
-								<a href="single.html">更多</a>
+								<a href="resource.action">更多</a>
 							</div>
 						</li>
 					</ul>
@@ -142,7 +142,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<img src="images/1.jpg" alt=" " class="img-responsive" />
 							<p>公司简介</p>
 							<div class="more">
-								<a href="single.html" class="hvr-bounce-to-bottom sint">更多</a>
+								<a href="about.action" class="hvr-bounce-to-bottom sint">更多</a>
 							</div>
 						</div>
 					</li>
@@ -151,7 +151,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<img src="images/2.jpg" alt=" " class="img-responsive" />
 							<p>产品与服务</p>
 							<div class="more">
-								<a href="single.html" class="hvr-bounce-to-bottom sint">更多</a>
+								<a href="portfolio.action" class="hvr-bounce-to-bottom sint">更多</a>
 							</div>
 						</div>
 					</li>
@@ -160,7 +160,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<img src="images/3.jpg" alt=" " class="img-responsive" />
 							<p>人力资源</p>
 							<div class="more">
-								<a href="single.html" class="hvr-bounce-to-bottom sint">更多</a>
+								<a href="resource.action" class="hvr-bounce-to-bottom sint">更多</a>
 							</div>
 						</div>
 					</li>

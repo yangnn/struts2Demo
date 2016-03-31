@@ -43,13 +43,13 @@
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
-						 <ul class="nav navbar-nav">
-							<li class="hvr-bounce-to-bottom"><a href="index.action">首页</a></li>
-							<li class="hvr-bounce-to-bottom active"><a href="about.action">公司简介</a></li>
-							<li class="hvr-bounce-to-bottom"><a href="portfolio.action">产品与服务</a></li>
-							<li class="hvr-bounce-to-bottom"><a href="resource.action">人力资源</a></li>
-							<li class="hvr-bounce-to-bottom"><a href="contact.action">联系我们</a></li>
-						  </ul>
+							<ul class="nav navbar-nav">
+								<li class="hvr-bounce-to-bottom"><a href="index.action">首页</a></li>
+								<li class="hvr-bounce-to-bottom"><a href="about.action">公司简介</a></li>
+								<li class="hvr-bounce-to-bottom"><a href="portfolio.action">产品与服务</a></li>
+								<li class="hvr-bounce-to-bottom active"><a href="resource.action">人力资源</a></li>
+								<li class="hvr-bounce-to-bottom"><a href="contact.action">联系我们</a></li>
+							  </ul>
 						  <div class="sign-in">
 							<ul>
 								<li><a href="login.html">登录 </a>/</li>
